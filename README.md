@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-# Un éditeur de texte format voyage ?
-Voici un lien vers l'app **Markor** pour vous entrainer sur votre portable type Android :
-
-[![](https://www.bettertechtips.com/wp-content/uploads/2017/07/markdown-linux-640x300.png)](https://fossdroid.com/a/markor.html)
-*Cliquez-moi !*
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Español
-=======
 ## Exercice MarkDown Group
 
 ### Collaborators :
@@ -39,8 +27,9 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 
 # Make a README
 #### Because no one can read your mind (yet).
+
 ## Español
->>>>>>> a26e700e1c5a523fec45eea980bc01ad9140e385
+
 Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como plugin (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS). Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz [1]. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces ha sido traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.
 
 ## Un poco de historia
@@ -54,21 +43,22 @@ Gruber escribió un script en Perl, Markdown.pl, que convierte texto Markdown v�
 Markdown desde entonces ha sido implementado como un módulo de Perl disponible en la CPAN (Text::Markdown), y también ha sido portado en una variedad de lenguajes de programación. Está distribuido bajo la licencia BSD, y está incluido, o disponible como un plugin para muchos sistemas de gestión de contenidos.
 
 Una cantidad de sitios como GitHub, Reddit, Diaspora, Stack Exchange, OpenStreetMap, y SourceForge usa algunas variantes de Markdown para facilitar la discusión entre usuarios. Un dialecto de Markdown es también usada por el sistema de mensajería instantánea Slack.
-<<<<<<< HEAD
-=======
-=======
->>>>>>> jean
-test
+
+### Liste numerotée [Jean]
 1. κανο
 2. μαρκδοεν
 3. καταλαβεσ;
 4. αδε κλ κλ
 5. σε αδαπο ❤
-<<<<<<< HEAD
 6. markdown is garbage :)
-=======
-6. dh
-7. ht
+7. dh
 8. ht
->>>>>>> jean
->>>>>>> 6d52bb7564049594b892830f42b6730be96ec7da
+9. ht
+
+
+## Un éditeur de texte format voyage ?
+Voici un lien vers l'app **Markor** pour vous entrainer sur votre portable type Android :
+
+[![](https://www.bettertechtips.com/wp-content/uploads/2017/07/markdown-linux-640x300.png)](https://fossdroid.com/a/markor.html)
+*Cliquez sur l'image !*
+
