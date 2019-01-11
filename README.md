@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Español
 =======
 ## Exercice MarkDown Group
@@ -48,10 +49,18 @@ Markdown desde entonces ha sido implementado como un módulo de Perl disponible 
 Una cantidad de sitios como GitHub, Reddit, Diaspora, Stack Exchange, OpenStreetMap, y SourceForge usa algunas variantes de Markdown para facilitar la discusión entre usuarios. Un dialecto de Markdown es también usada por el sistema de mensajería instantánea Slack.
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> jean
 test
 1. κανο
 2. μαρκδοεν
 3. καταλαβεσ;
 4. αδε κλ κλ
 5. σε αδαπο ❤
+<<<<<<< HEAD
 6. markdown is garbage :)
+=======
+6. dh
+7. ht
+8. ht
+>>>>>>> jean
