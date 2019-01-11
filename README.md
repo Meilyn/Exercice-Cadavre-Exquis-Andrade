@@ -3,7 +3,7 @@
 ### Collaborators :
 * [Meilyn ANDRADE](github.io/Meilyn)
 * [Jean OIKONOMOU](https://github.com/Jean-OIKONOMOU)
-* 
+* [Audrey Kremers](https://github.com/AudreyKremers)
 
 ### When: 
 11 January 2019 
