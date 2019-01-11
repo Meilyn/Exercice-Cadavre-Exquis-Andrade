@@ -10,8 +10,8 @@
 * [Audrey KREMERS](https://github.com/AudreyKremers)
 * [Joseph ISMAIL](https://github.com/Fesouille)
 
-### When: 
-11 January 2019 
+### When:
+11 January 2019
 
 ### Where:
 BeCode Junior Web Developper.
@@ -54,11 +54,4 @@ test
 3. καταλαβεσ;
 4. αδε κλ κλ
 5. σε αδαπο ❤
->>>>>>> jean
-=======
-
-
-
-
-
->>>>>>> a26e700e1c5a523fec45eea980bc01ad9140e385
+6. markdown is garbage :)
