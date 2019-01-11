@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Español
 Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como plugin (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS). Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz [1]. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces ha sido traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.
 
@@ -12,3 +13,32 @@ Gruber escribió un script en Perl, Markdown.pl, que convierte texto Markdown v�
 Markdown desde entonces ha sido implementado como un módulo de Perl disponible en la CPAN (Text::Markdown), y también ha sido portado en una variedad de lenguajes de programación. Está distribuido bajo la licencia BSD, y está incluido, o disponible como un plugin para muchos sistemas de gestión de contenidos.
 
 Una cantidad de sitios como GitHub, Reddit, Diaspora, Stack Exchange, OpenStreetMap, y SourceForge usa algunas variantes de Markdown para facilitar la discusión entre usuarios. Un dialecto de Markdown es también usada por el sistema de mensajería instantánea Slack.
+=======
+## Exercice MarkDown Group
+
+### Collaborators :
+* [Meilyn ANDRADE](github.io/Meilyn)
+* [Jean OIKONOMOU](https://github.com/Jean-OIKONOMOU)
+* [Audrey Kremers](https://github.com/AudreyKremers)
+
+### When: 
+11 January 2019 
+
+### Where:
+BeCode Junior Web Developper.
+
+### What’s Markdown?
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
+Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+
+
+![Imagen Statique](statique-imagen.png)
+
+![Imagen Gif](https://media.giphy.com/media/JmaC9146U81B6/giphy.gif)
+
+# Make a README
+#### Because no one can read your mind (yet).
+
+
+>>>>>>> a8539a660c93e3fdcba4597b4c68da0a40f247db
