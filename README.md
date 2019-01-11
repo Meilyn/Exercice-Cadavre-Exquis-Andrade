@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Exercice MarkDown Group
 
 ### Collaborators :
@@ -25,7 +24,4 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 # Make a README
 #### Because no one can read your mind (yet).
 
-=======
-test
-CQFD
->>>>>>> e55503704401a798db51a47d7b8967b4137edc6e
+
